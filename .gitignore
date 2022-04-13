@@ -1,0 +1,6 @@
+*.ftr
+*.html
+*.xlsx
+*.npz
+plots/
+__pycache__/
